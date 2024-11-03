@@ -11,7 +11,7 @@
 </div><br>
 
 ### GitHub Stats:
-<div align="center" style="display: flex; justify-content: center;">
+<div align="left" style="display: flex; justify-content: center;">
   <a href="https://https://github.com/mewbaeru">
     <img height="50%" src="https://github-readme-stats.vercel.app/api?username=mewbaeru&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
